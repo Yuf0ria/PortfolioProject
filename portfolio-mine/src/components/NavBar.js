@@ -30,7 +30,7 @@ export const NavBar = () => {
           <Container>
             <Navbar.Brand href="#home">
                 <img src= {''} alt ="logo"/>
-                Logo Here
+                MySelf
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav">
                 <span className="navbar-toggler-icon">
